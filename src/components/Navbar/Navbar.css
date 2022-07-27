@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .nav-bar {
+    background: #000;
+    display: none;
+  }
+}
+
+.title-text {
+  font-family: 'Poppins', sans-serif;
+}
